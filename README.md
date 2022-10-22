@@ -4,12 +4,12 @@
 - 💞️ I’m looking to collaborate on projects which promote Open-Source.
 - 📫 How to reach me 
 
-[![twitter (1)](https://user-images.githubusercontent.com/100849696/197333399-1f9a1441-d487-4412-9ff1-2a2108ab9d00.png)](https://twitter.com/SabhiSharma4)
-[![linkedin (4)](https://user-images.githubusercontent.com/100849696/197333419-5f321515-48bf-47af-a8b9-293707887246.png)](https://www.linkedin.com/in/sabhi-sharma-1a632a239/?originalSubdomain=in) 
-[![instagram (1)](https://user-images.githubusercontent.com/100849696/197333380-6668e1bb-ddd0-4920-925a-28dc38461914.png)](https://www.instagram.com/sabhisharma_/?next=%2F)
+[![icons8-twitter](https://user-images.githubusercontent.com/100849696/197336404-f0676e26-dde7-472f-949a-e390bba3eac5.svg)](https://twitter.com/SabhiSharma4)&nbsp;
+[![icons8-linkedin-2](https://user-images.githubusercontent.com/100849696/197336413-affeddd1-513a-4f55-848b-77197d6f5311.svg)](https://www.linkedin.com/in/sabhi-sharma-1a632a239/?originalSubdomain=in)&nbsp;
+[![icons8-instagram](https://user-images.githubusercontent.com/100849696/197336416-1ed0f6e8-da4a-4c2b-a008-fd0e8bf49da0.svg)](https://www.instagram.com/sabhisharma_/?next=%2F)&nbsp;
 
 
-- My Holopin Badge Board:
+- Holopin Badge Board:
 
 [![@sabhisharma's Holopin board](https://holopin.io/api/user/board?user=sabhisharma)](https://holopin.io/@sabhisharma)
 
