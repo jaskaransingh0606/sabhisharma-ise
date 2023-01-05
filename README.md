@@ -12,9 +12,6 @@
 [![icons8-google-cloud](https://user-images.githubusercontent.com/100849696/197336779-d8ec4a54-2502-41a2-974b-3a38bd61debc.svg)](https://www.cloudskillsboost.google/public_profiles/80990e47-5a3c-4630-a27f-338ef64e851c)
 [![icons8-instagram](https://user-images.githubusercontent.com/100849696/197336416-1ed0f6e8-da4a-4c2b-a008-fd0e8bf49da0.svg)](https://www.instagram.com/sabhisharma_/?next=%2F)&nbsp;
 
-- 🚩Languages and Tools
-
-
 
 - Holopin Badge Board:
 
